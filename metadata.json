@@ -1,0 +1,8 @@
+{
+  "name": "Architex AI",
+  "description": "An AI-powered assistant for building development and design. Leverage Gemini to analyze project briefs, get material suggestions, and find inspiration from images to streamline your architectural workflow.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
